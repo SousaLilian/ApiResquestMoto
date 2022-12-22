@@ -1,0 +1,49 @@
+{
+  "motos": [
+    {
+      "id": 1,
+      "nome": "Factor-150",
+      "marca": "Yamara"
+    },
+    {
+      "id": 2,
+      "marca": "Honda",
+      "nome": "Twister"
+    },
+    {
+      "id": 3,
+      "marca": "BMW",
+      "nome": "Custom"
+    },
+    {
+      "id": 4,
+      "marca": "Suzuki",
+      "nome": "Esportiva"
+    },
+    {
+      "id": 5,
+      "marca": "Dafra",
+      "nome": "Scooter"
+    },
+    {
+      "nome": "TSW",
+      "marca": "Honda",
+      "id": 7
+    },
+    {
+      "nome": "TSW",
+      "marca": "Honda",
+      "id": 8
+    },
+    {
+      "nome": "TSW",
+      "marca": "Honda",
+      "id": 9
+    },
+    {
+      "nome": "TSW",
+      "marca": "Honda",
+      "id": 10
+    }
+  ]
+}
